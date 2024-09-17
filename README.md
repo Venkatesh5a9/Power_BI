@@ -1,0 +1,1 @@
+This Power BI dashboard provides insights into universal sales data, helping businesses analyze key performance indicators (KPIs), track sales trends, and make data-driven decisions. The dashboard offers interactive visualizations, filters, and drill-down capabilities to explore various sales dimensions such as region, product categories, customer demographics, and time periods.
